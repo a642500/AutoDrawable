@@ -45,6 +45,7 @@
 		77E106BBD410226BA935B400 /* AutoDrawable.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AutoDrawable.xcdatamodel; sourceTree = "<group>"; };
 		77E107FB6F0CCCC6B37BB975 /* AutoDrawableTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoDrawableTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		77E1087838BB63DD2AD4AA87 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		77E108DF53491050FB772A07 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		77E1090CE8484FE126C65D7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77E10A5335906E71E5581180 /* AutoDrawableUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoDrawableUITests.swift; sourceTree = "<group>"; };
 		77E10A5881CA9C90BD0EC46C /* AutoDrawableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoDrawableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -86,6 +87,7 @@
 				77E10817BE304076E16AF3A5 /* AutoDrawableTests */,
 				77E10744FFB2F69EB337872B /* AutoDrawableUITests */,
 				77E10B739AACD16434FAC197 /* RoadMap.md */,
+				77E108DF53491050FB772A07 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
