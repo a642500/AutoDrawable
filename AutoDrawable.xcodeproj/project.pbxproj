@@ -49,6 +49,7 @@
 		77E10A5335906E71E5581180 /* AutoDrawableUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoDrawableUITests.swift; sourceTree = "<group>"; };
 		77E10A5881CA9C90BD0EC46C /* AutoDrawableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoDrawableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		77E10B5D685762612D74D688 /* AutoDrawableTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoDrawableTests.swift; sourceTree = "<group>"; };
+		77E10B739AACD16434FAC197 /* RoadMap.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = RoadMap.md; path = Doc/RoadMap.md; sourceTree = "<group>"; };
 		77E10E7A0FE602D625ED64F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -84,6 +85,7 @@
 				77E1068013A687C436F52B64 /* AutoDrawable */,
 				77E10817BE304076E16AF3A5 /* AutoDrawableTests */,
 				77E10744FFB2F69EB337872B /* AutoDrawableUITests */,
+				77E10B739AACD16434FAC197 /* RoadMap.md */,
 			);
 			sourceTree = "<group>";
 		};
